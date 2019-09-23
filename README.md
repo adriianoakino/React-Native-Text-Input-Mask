@@ -1,6 +1,7 @@
 # react-native-text-input-mask
 Text input mask for React Native on iOS and Android. All rights reserved at https://github.com/react-native-community/react-native-text-input-mask.
-This resolves the auto complete issue that prevents deleting special characters.
+
+This resolves the auto complete issue that prevents deleting special characters IOS and ANDROID.
 
 <a href="https://www.npmjs.org/package/react-native-text-input-mask">
   <img src="https://badge.fury.io/js/react-native-text-input-mask.svg" alt="NPM package version." />
