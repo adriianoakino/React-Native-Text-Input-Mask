@@ -18,7 +18,7 @@ open class RNMask : NSObject {
                 string: text,
                 caretPosition: text.endIndex
             ),
-            autocomplete: true
+            autocomplete: false
         )
 
         return result.formattedText.string
@@ -32,7 +32,7 @@ open class RNMask : NSObject {
                 string: text,
                 caretPosition: text.endIndex
             ),
-            autocomplete: true
+            autocomplete: false
         )
 
         return result.extractedValue
